@@ -12,7 +12,7 @@ from setuptools import setup
 
 setup(
     name='slugify',
-    version='1.0.0',
+    version='1.0.1',
     url='https://github.com/simplylizz/django-slugify',
     author="Anton Yanchenko",
     author_email="simplylizz@gmail.com",
