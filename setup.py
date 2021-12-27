@@ -1,11 +1,4 @@
 #!/usr/bin/env python
-"""
-Installation script:
-
-To release a new version to PyPi:
-- Ensure the version is correctly set in oscar.__init__.py
-- Run: python setup.py sdist upload
-"""
 
 from setuptools import setup
 
